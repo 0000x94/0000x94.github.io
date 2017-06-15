@@ -63,9 +63,8 @@
  }
 
 
-.button
-{
-	position: absolute;
-    top: 1269px;
-    left: 628px;
+.button{
+    position: relative;
+    top: -513px;
+    left: 567px;
 }
