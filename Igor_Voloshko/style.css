@@ -1,5 +1,8 @@
+.container{
+	position:relative;
+}
 .more {
-    position: relative;
-    top: -513px;
-    left: 567px;
+    position: absolute;
+    top: 71.2%;
+    left: 50%;
 }
