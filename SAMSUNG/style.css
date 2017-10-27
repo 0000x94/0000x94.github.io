@@ -1,0 +1,80 @@
+.main-container {
+  position: absolute;
+  margin: 0px;
+  width: 970px;
+  height: 250px;
+  top: 0px;
+  left: 0px;
+  border: 1px solid black;
+  box-sizing: border-box;
+  background: #FFF;
+  overflow: hidden;
+  background-image:url(loading.jpg);
+}
+
+.slider {
+  position: absolute;
+  left: 687px;
+  top: 125px;
+  border-radius: 5px;
+  background: #ececec;
+  width: 200px;
+  height: 1px;
+  margin: 0px;
+  transform: rotate(90deg);
+}
+
+.thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  position: relative;
+  left: 0px;
+  top: -10px;
+  background: black;
+  cursor: pointer;
+}
+
+.T_CTA {
+    position: absolute;
+    top: 195px;
+    left: 830px;
+    width: 101px;
+    height: 30px;
+}
+
+.SamsungLogo {
+    position: absolute;
+    top: 23px;
+    left: 26px;
+    width: 68px;
+    height: 13px;
+}
+
+
+.GalaxyLogo {
+    position: absolute;
+    top: 39px;
+    left: 24px;
+    width: 194px;
+    height: 33px;
+}
+
+.phone_00000 {
+    position: absolute;
+    top: 14px;
+    left: 268px;
+}
+
+
+
+
+.video{
+    top: 24px;
+    left: 345px;
+    width: 363px;
+    height: 202px;
+    position: absolute;
+    background-color: #000;
+}
+
