@@ -3,9 +3,9 @@
     padding: 0;
 }
 body {
-    background-colour: radial-gradient(circle farthest-corner at 100px 50px, #000000, #898989);
+    background-colour: grey;
     background-image:url('/IRONSUN/data/BGR.jpg');
-    width: 100%;
+    background-repeat:repeat-x
   }
 
  .L {
