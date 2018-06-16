@@ -41,6 +41,7 @@ header a, a:visited {
 .player {
     background: transparent url("../images/spr.png") no-repeat scroll center top;
     height: 162px;
+    text-align: center;
     position: relative;
     width: 326px;
     z-index: 2;
