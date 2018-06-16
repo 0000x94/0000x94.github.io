@@ -5,8 +5,8 @@
 body {
     background: radial-gradient(circle farthest-corner at 100px 50px, #000000, #898989);
     background-image:url('/IRONSUN/data/BGR.jpg');
-    max-width: auto%;
-    //height: auto;//
+    max-width: auto;
+    height: auto;
 }
 
  .L {
